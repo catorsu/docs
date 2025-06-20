@@ -16,7 +16,10 @@ Below is an index of the available documentation, along with links to their resp
 
 | API/SDK Name          | Folder                                      | Last Updated |
 |-----------------------|---------------------------------------------|--------------|
-| Chrome Extensions API | [chrome_extensions](./chrome_extensions/)   | 2025-05-25   |
+| Chrome Extensions API | [chrome_extension](./chrome_extension/)     | 2025-05-25   |
+| Firefox WebExtensions API | [fireFox_extension](./fireFox_extension/) | 2025-06-20   |
+| Jest Testing Framework | [jest](./jest/)                           | Various      |
+| VS Code Extension API | [vscode-extension](./vscode-extension/)     | Various      |
 | _Another API/SDK_     | [_./path_to_folder/_](./path_to_folder/)    | _YYYY-MM-DD_ |
 | _And so on..._        | [_./path_to_another/_](./path_to_another/) | _YYYY-MM-DD_ |
 

@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:developer.mozilla.org)",
+      "WebFetch(domain:developer.mozilla.org)",
+      "WebFetch(domain:developer.mozilla.org)",
+      "WebFetch(domain:developer.mozilla.org)",
+      "WebFetch(domain:developer.mozilla.org)",
+      "WebFetch(domain:developer.mozilla.org)"
+    ],
+    "deny": []
+  }
+}
